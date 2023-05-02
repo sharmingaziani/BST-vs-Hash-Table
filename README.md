@@ -1,6 +1,4 @@
-# Binary-Search-Tree
-
-Hey guys! Welcome to one of the java projects I worked on in my Computer Science II class.
+## Some things about my project
 
 I implemented a Binary Search Tree to efficiently organize a data file containing author names, book titles, keywords, and themes.
 
